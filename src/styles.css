@@ -25,6 +25,7 @@ body {
 
 .main-card-img {
   border-radius: 20px 20px 0px 0px;
+  width: 100%;
 }
 
 .card-body {
@@ -69,6 +70,7 @@ body {
   margin: 0px;
   color: #717fa6;
   margin-left: 20px;
+  font-size: 16px;
 }
 
 .plan b {
@@ -77,6 +79,7 @@ body {
 
 .plan a {
   color: #382ae1;
+  font-size: 14px;
 }
 
 .plan a:hover {
@@ -118,6 +121,31 @@ body {
     background-image: url(../images/pattern-background-mobile.svg);
   }
   .card {
-    margin: 102px 24px 102px 24px;
+    max-width: 327px;
+  }
+  .card-body {
+    padding: 32px;
+  }
+  .title {
+    font-size: 22px;
+  }
+  .description {
+    font-size: 15px;
+  }
+  .plan {
+    padding: 16px;
+  }
+
+  .plan p {
+    font-size: 14px;
+  }
+
+  .plan a {
+    font-size: 13px;
+  }
+
+  .confirmation {
+    margin-top: 24px;
+    margin-bottom: 24px;
   }
 }
