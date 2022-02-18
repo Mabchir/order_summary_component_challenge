@@ -45,28 +45,40 @@ Users should be able to:
 
 - Sketch the design to prepare the different components ![](./images/sketch.png)
 
+- Set up the repository, live site and starter files
+- created a sketch of the different components I will be needing ![](./images/nft_sketch.png)
+- translated sketch into HTML
+- added the class in CSS
+- added relevant styling
+- adding hovering styles
+- fixing mobile responsiveness
+
 ### What I learned
 
 To see how you can add code snippets, see below:
 
-```html
-
-```
+How to add an image as a part of the background
 
 ```css
-
+body {
+  background-image: url(../images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
 ```
 
 ### Continued development
 
 What I would love to learn more about is:
 
--
+- a more efficient way of making things responsive to mobile screens instead of targetting each element and changing the spaces and sizes.
+
+- I couldn't figure out how to get the right spacing for the plan class in the mobile format (screen 375 px)
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS Tricks](https://css-tricks.com/lodge/svg/06-using-svg-svg-background-image/) - This helped understand how to put an image as a background
+- [W3Schools](https://www.w3schools.com/cssref/pr_background-position.asp) - This helped understand how to position the back ground image
 
 ## Author
 
@@ -78,10 +90,9 @@ What I would love to learn more about is:
 
 ## Acknowledgments
 
-Shoutout to the following members of Frontend Mentors whose feedback on my first challenge was very helpful in making this challenge a success :
+Shoutout to the following members of Frontend Mentors whose feedback on my previous challenge was very helpful in making this challenge a success :
 
-- Frontend Mentor - [@Phalcin](https://www.frontendmentor.io/profile/Phalcin)
-- Frontend Mentor - [@denielden](https://www.frontendmentor.io/profile/denielden)
-- Frontend Mentor - [@nakoyawilson](https://www.frontendmentor.io/profile/nakoyawilson)
-- Frontend Mentor - [@AleksHNZ](https://www.frontendmentor.io/profile/AleksHNZ)
 - Frontend Mentor - [@grace-snow](https://www.frontendmentor.io/profile/grace-snow)
+- Frontend Mentor - [@dnksebastian](https://www.frontendmentor.io/profile/dnksebastian)
+- Frontend Mentor - [@MomenHakim](https://www.frontendmentor.io/profile/MomenHakim)
+- Frontend Mentor - [@Crazimonk](https://www.frontendmentor.io/profile/Crazimonk)
