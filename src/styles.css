@@ -117,4 +117,7 @@ body {
   body {
     background-image: url(../images/pattern-background-mobile.svg);
   }
+  .card {
+    margin: 102px 24px 102px 24px;
+  }
 }
