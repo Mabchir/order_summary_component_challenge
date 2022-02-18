@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Mabchir/order_summary_component_challenge)
+- Live Site URL: [Netlify](https://focused-edison-9eaa79.netlify.app/)
 
 ## My process
 
@@ -42,6 +42,8 @@ Users should be able to:
 - Flexbox
 
 ### Steps
+
+- Sketch the design to prepare the different components ![](./images/sketch.png)
 
 ### What I learned
 
