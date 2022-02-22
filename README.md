@@ -81,6 +81,24 @@ What I would love to learn more about is:
 - [CSS Tricks](https://css-tricks.com/lodge/svg/06-using-svg-svg-background-image/) - This helped understand how to put an image as a background
 - [W3Schools](https://www.w3schools.com/cssref/pr_background-position.asp) - This helped understand how to position the back ground image
 
+- [XaxessLab](https://axesslab.com/alt-texts/)- learning about the importance of alt text in images
+
+- [w3.org](https://www.w3.org/WAI/tutorials/images/) - learning about the different types of images and the best fit alt
+
+-[MDN-Web-Doc](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br#accessibility_concerns) - learning about the `<br>` element and its uses
+
+-[CSS-Tricks](https://www.youtube.com/watch?v=A2gGkE9r1GM&ab_channel=FredrikChristenson) - learing about how to do a css reset
+
+```css
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+```
+
+-[engage](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px) learning about the difference between em rem and px for font-sizing
+
 ## Author
 
 - Website - [Mariem Bchir](https://goofy-easley-2c8717.netlify.app/index.html)
