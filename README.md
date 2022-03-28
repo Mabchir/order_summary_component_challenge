@@ -111,7 +111,7 @@ What I would love to learn more about is:
 
 Shoutout to the following members of Frontend Mentors whose feedback on my previous challenge was very helpful in making this challenge a success :
 
-- Frontend Mentor - [@grace-snow](https://www.frontendmentor.io/profile/grace-snow)
+- Frontend Mentor - [@grace-snow](https://www.frontendmentor.io/profile/TheCoderGuru)
 - Frontend Mentor - [@dnksebastian](https://www.frontendmentor.io/profile/dnksebastian)
 - Frontend Mentor - [@MomenHakim](https://www.frontendmentor.io/profile/MomenHakim)
 - Frontend Mentor - [@Crazimonk](https://www.frontendmentor.io/profile/Crazimonk)
